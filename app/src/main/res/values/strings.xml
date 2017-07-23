@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRadioGroupViewPager</string>
+    <string name="menu_one">界面一</string>
+    <string name="menu_two">界面二</string>
+    <string name="menu_three">界面三</string>
+
+
+</resources>

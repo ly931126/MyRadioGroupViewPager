@@ -3,7 +3,7 @@ RadioGroup结合ViewPager实现标题栏和界面滑动切换
 - [参考网址](https://my.oschina.net/qibin/blog/316650)
 - 效果图如下：
 
-- <img src="radioGroupViewpager.gif"  width="320px" />
+- <img src="RadioGroupViewpager.gif"  width="320px" />
 - 注意事项， 在布局中的RadioButton的图片选择器selector必须是一样的;
 示例布局如下
 ```
